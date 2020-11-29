@@ -1,2 +1,2 @@
-# Project_C34_Newton-s-Cradle
-Newton Cradle
+# Newtons Cradle
+Newton Cradle with 5 Bobs
